@@ -1,0 +1,2 @@
+D:\ITP380Final\XNAContent\obj\x86\Debug\XNAContent.contentprojResolveAssemblyReference.cache
+C:\Users\Daron\Documents\GitHub\RhythmRunner\XNAContent\obj\x86\Debug\XNAContent.contentprojResolveAssemblyReference.cache
